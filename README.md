@@ -14,6 +14,15 @@ Tools Used:
 - Pandas & NumPy
 - Matplotlib & Seaborn
 - Jupyter Notebook
+- # Business Questions
+1. Which subscription type has the highest average monthly charges? Answer: ...
+2. Which region has the most customers? Answer: ...
+3. Which payment method has the most late payments? Answer: ...
+
+# Key Findings
+- Age is spread evenly from 18 to 70, with no outliers.
+- No strong correlations. The highest is SupportTickets and LatePayments, about 0.14.
+- MonthlyChargesINR has ... outliers.
 
 Author:
 CodSoft Data Analytics Intern
